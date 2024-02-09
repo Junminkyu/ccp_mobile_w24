@@ -71,7 +71,7 @@ a.travel{
   background-color: #9613ba;
 }
 
-.navbar a:hover{
+.navbar a:hover, .navbar a:focus{
   background-color: #cda400;
 }
 
